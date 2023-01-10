@@ -1,0 +1,103 @@
+fileFormatVersion: 2
+guid: d05d13c68fe4b1c4caa2802247073142
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    4300000: gold_bar_32
+    4300002: gold_bar_33
+    4300004: gold_bar_34
+    4300006: gold_bar_35
+    4300008: gold_bar_36
+    4300010: gold_bar_37
+    4300012: gold_bar_38
+    4300014: gold_bar_39
+    4300016: gold_bar_40
+    4300018: gold_bar_41
+    4300020: gold_bar_42
+    4300022: gold_bar_43
+    4300024: gold_bar_44
+    4300026: gold_bar_45
+    4300028: gold_bar_46
+    4300030: gold_bar_47
+    4300032: gold_bar_48
+    4300034: gold_bar_49
+    4300036: gold_bar_50
+    4300038: gold_bar_51
+    4300040: gold_bar_52
+    4300042: gold_bar_53
+    4300044: gold_bar_54
+    4300046: gold_bar_55
+    4300048: gold_bar_56
+    4300050: gold_bar_57
+    4300052: gold_bar_58
+    4300054: gold_bar_59
+    4300056: gold_bar_60
+    4300058: gold_bar_61
+    4300060: gold_bar_62
+    4300062: gold_bar_63
+    4300064: big_chest
+    4300066: gold_bar_64
+    4300068: gold_bar_65
+    4300070: big_chest_cover
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
