@@ -6,10 +6,11 @@ using UnityEngine.Events;
 
 public class NPCController : MonoBehaviour
 {
-
+    public string characterName;
     public NPCControllerEvent onPlayerEnterTrigger = new NPCControllerEvent();
     public NPCControllerEvent onPlayerExitTrigger  = new NPCControllerEvent();
-        
+    
+    
     public void OnTriggerEnter(Collider other)
     {
         onPlayerEnterTrigger.Invoke(this);

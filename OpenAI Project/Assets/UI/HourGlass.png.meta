@@ -1,0 +1,2683 @@
+fileFormatVersion: 2
+guid: 0d721fbc3c134f5489fc40cb64b89069
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: HourGlass_00000
+  - first:
+      213: 21300002
+    second: HourGlass_00001
+  - first:
+      213: 21300004
+    second: HourGlass_00002
+  - first:
+      213: 21300006
+    second: HourGlass_00003
+  - first:
+      213: 21300008
+    second: HourGlass_00004
+  - first:
+      213: 21300010
+    second: HourGlass_00005
+  - first:
+      213: 21300012
+    second: HourGlass_00006
+  - first:
+      213: 21300014
+    second: HourGlass_00007
+  - first:
+      213: 21300016
+    second: HourGlass_00008
+  - first:
+      213: 21300018
+    second: HourGlass_00009
+  - first:
+      213: 21300020
+    second: HourGlass_00010
+  - first:
+      213: 21300022
+    second: HourGlass_00011
+  - first:
+      213: 21300024
+    second: HourGlass_00012
+  - first:
+      213: 21300026
+    second: HourGlass_00013
+  - first:
+      213: 21300028
+    second: HourGlass_00014
+  - first:
+      213: 21300030
+    second: HourGlass_00015
+  - first:
+      213: 21300032
+    second: HourGlass_00016
+  - first:
+      213: 21300034
+    second: HourGlass_00017
+  - first:
+      213: 21300036
+    second: HourGlass_00018
+  - first:
+      213: 21300038
+    second: HourGlass_00019
+  - first:
+      213: 21300040
+    second: HourGlass_00020
+  - first:
+      213: 21300042
+    second: HourGlass_00021
+  - first:
+      213: 21300044
+    second: HourGlass_00022
+  - first:
+      213: 21300046
+    second: HourGlass_00023
+  - first:
+      213: 21300048
+    second: HourGlass_00024
+  - first:
+      213: 21300050
+    second: HourGlass_00025
+  - first:
+      213: 21300052
+    second: HourGlass_00026
+  - first:
+      213: 21300054
+    second: HourGlass_00027
+  - first:
+      213: 21300056
+    second: HourGlass_00028
+  - first:
+      213: 21300058
+    second: HourGlass_00029
+  - first:
+      213: 21300060
+    second: HourGlass_00030
+  - first:
+      213: 21300062
+    second: HourGlass_00031
+  - first:
+      213: 21300064
+    second: HourGlass_00032
+  - first:
+      213: 21300066
+    second: HourGlass_00033
+  - first:
+      213: 21300068
+    second: HourGlass_00034
+  - first:
+      213: 21300070
+    second: HourGlass_00035
+  - first:
+      213: 21300072
+    second: HourGlass_00036
+  - first:
+      213: 21300074
+    second: HourGlass_00037
+  - first:
+      213: 21300076
+    second: HourGlass_00038
+  - first:
+      213: 21300078
+    second: HourGlass_00039
+  - first:
+      213: 21300080
+    second: HourGlass_00040
+  - first:
+      213: 21300082
+    second: HourGlass_00041
+  - first:
+      213: 21300084
+    second: HourGlass_00042
+  - first:
+      213: 21300086
+    second: HourGlass_00043
+  - first:
+      213: 21300088
+    second: HourGlass_00044
+  - first:
+      213: 21300090
+    second: HourGlass_00045
+  - first:
+      213: 21300092
+    second: HourGlass_00046
+  - first:
+      213: 21300094
+    second: HourGlass_00047
+  - first:
+      213: 21300096
+    second: HourGlass_00048
+  - first:
+      213: 21300098
+    second: HourGlass_00049
+  - first:
+      213: 21300100
+    second: HourGlass_00050
+  - first:
+      213: 21300102
+    second: HourGlass_00051
+  - first:
+      213: 21300104
+    second: HourGlass_00052
+  - first:
+      213: 21300106
+    second: HourGlass_00053
+  - first:
+      213: 21300108
+    second: HourGlass_00054
+  - first:
+      213: 21300110
+    second: HourGlass_00055
+  - first:
+      213: 21300112
+    second: HourGlass_00056
+  - first:
+      213: 21300114
+    second: HourGlass_00057
+  - first:
+      213: 21300116
+    second: HourGlass_00058
+  - first:
+      213: 21300118
+    second: HourGlass_00059
+  - first:
+      213: 21300120
+    second: HourGlass_00060
+  - first:
+      213: 21300122
+    second: HourGlass_00061
+  - first:
+      213: 21300124
+    second: HourGlass_00062
+  - first:
+      213: 21300126
+    second: HourGlass_00063
+  - first:
+      213: 21300128
+    second: HourGlass_00064
+  - first:
+      213: 21300130
+    second: HourGlass_00065
+  - first:
+      213: 21300132
+    second: HourGlass_00066
+  - first:
+      213: 21300134
+    second: HourGlass_00067
+  - first:
+      213: 21300136
+    second: HourGlass_00068
+  - first:
+      213: 21300138
+    second: HourGlass_00069
+  - first:
+      213: 21300140
+    second: HourGlass_00070
+  - first:
+      213: 21300142
+    second: HourGlass_00071
+  - first:
+      213: 21300144
+    second: HourGlass_00072
+  - first:
+      213: 21300146
+    second: HourGlass_00073
+  - first:
+      213: 21300148
+    second: HourGlass_00074
+  - first:
+      213: 21300150
+    second: HourGlass_00075
+  - first:
+      213: 21300152
+    second: HourGlass_00076
+  - first:
+      213: 21300154
+    second: HourGlass_00077
+  - first:
+      213: 21300156
+    second: HourGlass_00078
+  - first:
+      213: 21300158
+    second: HourGlass_00079
+  - first:
+      213: 21300160
+    second: HourGlass_00080
+  - first:
+      213: 21300162
+    second: HourGlass_00081
+  - first:
+      213: 21300164
+    second: HourGlass_00082
+  - first:
+      213: 21300166
+    second: HourGlass_00083
+  - first:
+      213: 21300168
+    second: HourGlass_00084
+  - first:
+      213: 21300170
+    second: HourGlass_00085
+  - first:
+      213: 21300172
+    second: HourGlass_00086
+  - first:
+      213: 21300174
+    second: HourGlass_00087
+  - first:
+      213: 21300176
+    second: HourGlass_00088
+  - first:
+      213: 21300178
+    second: HourGlass_00089
+  - first:
+      213: 21300180
+    second: HourGlass_00090
+  - first:
+      213: 21300182
+    second: HourGlass_00091
+  - first:
+      213: 21300184
+    second: HourGlass_00092
+  - first:
+      213: 21300186
+    second: HourGlass_00093
+  - first:
+      213: 21300188
+    second: HourGlass_00094
+  - first:
+      213: 21300190
+    second: HourGlass_00095
+  - first:
+      213: 21300192
+    second: HourGlass_00096
+  - first:
+      213: 21300194
+    second: HourGlass_00097
+  - first:
+      213: 21300196
+    second: HourGlass_00098
+  - first:
+      213: 21300198
+    second: HourGlass_00099
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HourGlass_00000
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1171
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d1028c5d431ba244b4500cae5e8cf02
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00001
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1171
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fbaf7b34c3dd834cb81de2ebfef9b04
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00002
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1171
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f22e3502ec99e4088ce4253e9d7f49
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00003
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1171
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a982f74fb5fa13419c2cc640ba5fe46
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00004
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1171
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4227908b90109ad42aea196f7148e91d
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00005
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1171
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0002ec10eaa42349b5e849d163498d4
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00006
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 1171
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93cf1b4d2a919134388bb2c17179d617
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00007
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 1171
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b192bd45910e8354f830e3b5d8fdc443
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00008
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 1171
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a6ccf6cce145cf4c80a9593d6a13c28
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00009
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 1171
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05fb4da72538ced4b84f84e9c3228b23
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00010
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1041
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c41f0d4ef6af684b91130f378d20591
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00011
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1041
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb438fbd672b3a4db0e8e92299cfb4c
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00012
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1041
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f24cad15e20ee349acdf1e8ac1ca176
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00013
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1041
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6bc6db535f7e39458bd57bdbeab2407
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00014
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1041
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0894cc5774ce5f44cb62d72c467ec8b5
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00015
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1041
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d599bc570b6c5418681cc09df47a30
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00016
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 1041
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b0b1e6ce0750924e826c104ef287590
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00017
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 1041
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e896d362f7e544a9a12c32bd08908f
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00018
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 1041
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ba85fe77b8bf7418ae4ded5995e468
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00019
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 1041
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 943f058d07e3f64478a203b1e79b2ec8
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00020
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 911
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1933bb120fdb6040ae6ba05fe96e3c1
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00021
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 911
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f9e1290b77e54f419a9a0ac7432964f
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00022
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 911
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8a588a682fc114e9623d612f719e51
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00023
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 911
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fdd8b184f00a4b49a2c31a40ed9eb17
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00024
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 911
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8bb4a435445c1748866e25f46869600
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00025
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 911
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e7014c591e16974aa8b6474d4ea084a
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00026
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 911
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c0a66c49e922894e8f7048bfc79b5a7
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00027
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 911
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f20e52baf325a4e85badeee6df1c6f
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00028
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 911
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bce41d0a8d430d48ad9a75d2d913f3a
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00029
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 911
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2536a30a7f932f041aadfe9763bfe137
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00030
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 781
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12798eb053197524c9fb813a2e1f6531
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00031
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 781
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa334a258cc5624ea0e8a2bdba031e4
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00032
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 781
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b19b8cf60bde1fc498f89ecbfe6177da
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00033
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 781
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517938d245bf91f42841c236662d242d
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00034
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 781
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92dc5c7d71425bc49ae94f0ded30f1ef
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00035
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 781
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c133fe5d642233e499113b8852dc4cec
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00036
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 781
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e33fab0ee38734dae0b56749bee46e
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00037
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 781
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f9d6f7b7bf42dd43963e02f991c70db
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00038
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 781
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f211515c975cbf4098f15e1120e2a60
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00039
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 781
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 807e8f069223671459be36634caffea4
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00040
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 651
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f4e578d9f565d438972d04b0f7530b
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00041
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 651
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a5af4beb8696844f9d405c81f2a6a9d
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00042
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 651
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306214b5b3746064585d88690b5ac786
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00043
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 651
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e557b1f27bcbe249be8f6170488a7a7
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00044
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 651
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eccfbf3e579cb0842a7c03010abae12a
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00045
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 651
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb0f168f2694a74094e6e010f4f874f
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00046
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 651
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1afacfef5f03a98499d7446390e72acb
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00047
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 651
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd73d7ee429b35c438d6016b8264dfcc
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00048
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 651
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c43a0ce4175704a85df0abea8d7e64
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00049
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 651
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b782d3b01779dfd41a0117ab6e68250c
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00050
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 521
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3912e486dd8d19c4aa9ccc3945918bea
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00051
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 521
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 524d32bab63ef4e41b48391f630e6582
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00052
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 521
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3309d3b6c06602a439126c34dfab08d6
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00053
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 521
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a753f75f3fd4cf4a8a048d4b02adfe7
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00054
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 521
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faddbf1ad48e2484c982fe23472c5761
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00055
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 521
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31361903f97cc2040879c13e2546a247
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00056
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 521
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa26fed100a449b4a97525544b416da0
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00057
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 521
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44caf00342315c34fb63f3b790acd8e2
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00058
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 521
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d1636b1fd77a549840ad919997bfcd
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00059
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 521
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b4ad41b75509742a2e62fbb240882e
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00060
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 391
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 763d29b604cbad447a50400b757a0449
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00061
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 391
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 842a639f6e2b0334994a4260e169aba2
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00062
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 391
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f5bdd38a62eb140a0c61ba9df2d9d7
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00063
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 391
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30b1c2157cf27114eb87eae69e9e3f53
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00064
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 391
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e79032f211583354583381d6d8993ed4
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00065
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 391
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d1a1e2e20de63479e3af3b367e4453
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00066
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 391
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21eedf13350073c4cbf73199a7254661
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00067
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 391
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0648f58a049e44f4a971bca5b92e0a69
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00068
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 391
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eee23d41d47c1c4dbd3019f39ca9c9a
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00069
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 391
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38820ee06df466749b38bc837994194e
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00070
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 261
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39bee99833102e140ab154e401a44561
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00071
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 261
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d4254c63f33faa43be9a930f5ebb6eb
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00072
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 261
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8467fc8ea16c974cbd2ee6d7ec1abd5
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00073
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 261
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac49f95d8a6df84aa1bcd4c88c4a935
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00074
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 261
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c36b96959d9894b99639b7446ecb95
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00075
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 261
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60baf112e5bdd964498207ff6ac5391f
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00076
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 261
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c79e1490f8d6b24c9bd8e025357c9cd
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00077
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 261
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af5c6506e7873e240a1ca8ee0cb59494
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00078
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 261
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af455d5a36a500b4fab7f0901c3f1acd
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00079
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 261
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d51c6b8abb1a31846a0ea629af72cf58
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00080
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 131
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb08f1fee3ffae49860346707134152
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00081
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 131
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb89c86b2681d10418c9cee3c672bae8
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00082
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 131
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da4f0bc9eedd9be459b4a32347910c57
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00083
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 131
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab066caa75f24d44a99f981bd667739
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00084
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 131
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 119471c9bd737414bb26ca616f41a888
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00085
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 131
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 197e3f360df9df84a9edd157daa4d2d7
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00086
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 131
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e773fe15cb0e0642ad7fb35c0c5d8f5
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00087
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 131
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7927d7566b043574b9e7e866c5e459e7
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00088
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 131
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd5f576c9d7b66c419d3d2a798e9d969
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00089
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 131
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0136adf872c53614b94d2835ecda5fc0
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00090
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c1a8f68d054ec40a84b153df7f0100
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00091
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e5c1b2a5c57f6438632b836a19eabb
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00092
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e28edc29c30d84a804e3ba24d9915e
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00093
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc5e5f582aa3ab40ab195182fa9beaa
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00094
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e945a57385bb345a2912a4e913e565
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00095
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d870b8fb7f632447a8234bdd4d7dc7a
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00096
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 1
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89cd1666ca415a0438c0ba9af2cd329f
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00097
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 1
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a14950a1adcf6419a9f4ff0a41ad71
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00098
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 1
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a918bfe5889e1646a7a59c16104724b
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HourGlass_00099
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 1
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 176153a2125ed404daae2990bd11e152
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      HourGlass_00038: 21300076
+      HourGlass_00057: 21300114
+      HourGlass_00049: 21300098
+      HourGlass_00047: 21300094
+      HourGlass_00086: 21300172
+      HourGlass_00031: 21300062
+      HourGlass_00053: 21300106
+      HourGlass_00059: 21300118
+      HourGlass_00008: 21300016
+      HourGlass_00043: 21300086
+      HourGlass_00073: 21300146
+      HourGlass_00032: 21300064
+      HourGlass_00082: 21300164
+      HourGlass_00034: 21300068
+      HourGlass_00098: 21300196
+      HourGlass_00037: 21300074
+      HourGlass_00087: 21300174
+      HourGlass_00001: 21300002
+      HourGlass_00076: 21300152
+      HourGlass_00063: 21300126
+      HourGlass_00099: 21300198
+      HourGlass_00094: 21300188
+      HourGlass_00090: 21300180
+      HourGlass_00012: 21300024
+      HourGlass_00061: 21300122
+      HourGlass_00072: 21300144
+      HourGlass_00020: 21300040
+      HourGlass_00065: 21300130
+      HourGlass_00029: 21300058
+      HourGlass_00019: 21300038
+      HourGlass_00083: 21300166
+      HourGlass_00033: 21300066
+      HourGlass_00096: 21300192
+      HourGlass_00078: 21300156
+      HourGlass_00003: 21300006
+      HourGlass_00004: 21300008
+      HourGlass_00058: 21300116
+      HourGlass_00017: 21300034
+      HourGlass_00068: 21300136
+      HourGlass_00002: 21300004
+      HourGlass_00005: 21300010
+      HourGlass_00084: 21300168
+      HourGlass_00007: 21300014
+      HourGlass_00079: 21300158
+      HourGlass_00054: 21300108
+      HourGlass_00060: 21300120
+      HourGlass_00030: 21300060
+      HourGlass_00066: 21300132
+      HourGlass_00042: 21300084
+      HourGlass_00015: 21300030
+      HourGlass_00070: 21300140
+      HourGlass_00011: 21300022
+      HourGlass_00045: 21300090
+      HourGlass_00088: 21300176
+      HourGlass_00062: 21300124
+      HourGlass_00027: 21300054
+      HourGlass_00010: 21300020
+      HourGlass_00075: 21300150
+      HourGlass_00022: 21300044
+      HourGlass_00016: 21300032
+      HourGlass_00024: 21300048
+      HourGlass_00081: 21300162
+      HourGlass_00092: 21300184
+      HourGlass_00055: 21300110
+      HourGlass_00056: 21300112
+      HourGlass_00040: 21300080
+      HourGlass_00025: 21300050
+      HourGlass_00095: 21300190
+      HourGlass_00071: 21300142
+      HourGlass_00080: 21300160
+      HourGlass_00028: 21300056
+      HourGlass_00067: 21300134
+      HourGlass_00064: 21300128
+      HourGlass_00044: 21300088
+      HourGlass_00050: 21300100
+      HourGlass_00048: 21300096
+      HourGlass_00013: 21300026
+      HourGlass_00000: 21300000
+      HourGlass_00052: 21300104
+      HourGlass_00018: 21300036
+      HourGlass_00074: 21300148
+      HourGlass_00097: 21300194
+      HourGlass_00014: 21300028
+      HourGlass_00091: 21300182
+      HourGlass_00036: 21300072
+      HourGlass_00023: 21300046
+      HourGlass_00046: 21300092
+      HourGlass_00077: 21300154
+      HourGlass_00093: 21300186
+      HourGlass_00009: 21300018
+      HourGlass_00069: 21300138
+      HourGlass_00041: 21300082
+      HourGlass_00039: 21300078
+      HourGlass_00035: 21300070
+      HourGlass_00006: 21300012
+      HourGlass_00051: 21300102
+      HourGlass_00026: 21300052
+      HourGlass_00085: 21300170
+      HourGlass_00021: 21300042
+      HourGlass_00089: 21300178
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

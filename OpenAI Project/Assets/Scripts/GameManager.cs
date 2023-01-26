@@ -6,6 +6,9 @@ using UnityEngine.Events;
 
 public class GameManager : MonoBehaviour
 {
+  
+    public NetworkManager networkManager;
+    public UIManager uiManager;
     public NPCController[] npcControllers;
     public KeyCode interactButton;
 
@@ -26,8 +29,10 @@ public class GameManager : MonoBehaviour
         for (int i = 0; i < npcControllers.Length; i++)
         {
             npcControllers[i].onPlayerEnterTrigger.AddListener(RegisterCloseNPC);
-            npcControllers[i].onPlayerExitTrigger.AddListener(RegisterCloseNPC);
+            npcControllers[i].onPlayerExitTrigger.AddListener(RemoveCloseNPC);
         }
+        networkManager.onCharacterResponseRecieved.AddListener(uiManager.SetCharacterResponse);
+        uiManager.onSendTextAfterValidate.AddListener(networkManager.SendPromptToServer);
     }
 
     private void RegisterCloseNPC(NPCController npcController)
@@ -38,6 +43,8 @@ public class GameManager : MonoBehaviour
     private void RemoveCloseNPC(NPCController npcController)
     {
         closestNPC = null;
+        uiManager.incomingDialoguePanel.SetActive(false);
+        uiManager.characterResponseText.text = string.Empty;
     }
 
     private void OnValidate()
@@ -45,11 +52,16 @@ public class GameManager : MonoBehaviour
         npcControllers = FindObjectsOfType<NPCController>();
     }
 
-    private void Update()
+    private void LateUpdate()
     {
         if (Input.GetKeyDown(interactButton) && nearNPC)
         {
             onInteractWithNPC.Invoke();
+        }
+
+        if (uiManager.dialoguePanel.activeInHierarchy && Input.GetKeyDown(KeyCode.Return))
+        {
+            uiManager.SendTextClicked();
         }
     }
 }
