@@ -12,13 +12,16 @@ public class NetworkManager : MonoBehaviour
 {
     [HideInInspector] public UnityEvent<string> onCharacterPromptSent;
     [HideInInspector] public UnityEvent<string> onCharacterResponseRecieved;
-    private const string APIKEY = "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";
+
+    [SerializeField] private bool isEcho = false;
+
+    private const string APIKEY = "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";
 
     public void SendPromptToServer(string promptToSend)
     {
         StartCoroutine(SendTextToServer(promptToSend));
     }
-    
+
     [ContextMenu(("Send Test"))]
     void SendTest()
     {
@@ -28,27 +31,33 @@ public class NetworkManager : MonoBehaviour
     IEnumerator SendTextToServer(string promptText)
     {
         Dictionary<string, string> dic = new Dictionary<string, string>();
-      //  dic["stringtoai"] = "Hello";
+        dic["prompt"] = "hello";
+        dic["apikey"] = APIKEY;
 
-      string urlWithFormat =
-          string.Format("https://mebudy.com/openai/request.php?prompt={0}&apikey=" + APIKEY, promptText);
+        string urlWithFormat =
+            string.Format("https://mebudy.com/openai/request.php?prompt={0}" +
+                          "&apikey={1}&model=text-davinci-003&temp=0&max_tokens=300&echo={2}", promptText, APIKEY,
+                isEcho);
         UnityWebRequest www = UnityWebRequest.Get(
-            urlWithFormat );
-        
+            urlWithFormat);
+        // WWWForm form = new WWWForm();
+        // form.AddField("prompt", "hello");
+        // form.AddField("apikey", APIKEY);
+        // UnityWebRequest www = UnityWebRequest.Post(@"https://mebudy.com/openai/request.php",form);
+
         onCharacterPromptSent.Invoke(promptText);
         yield return www.SendWebRequest();
-        
+
         if (www.result != UnityWebRequest.Result.Success)
         {
-         
-        //    Debug.Log(www.GetResponseHeaders(""));
+            //    Debug.Log(www.GetResponseHeaders(""));
             Debug.Log(www.error);
         }
         else
         {
-           // Dictionary<string, string> responseHeaders = www.GetResponseHeaders();
+            // Dictionary<string, string> responseHeaders = www.GetResponseHeaders();
             Debug.Log("Form upload complete!");
-        //    Debug.Log(www.downloadHandler.text);
+            //    Debug.Log(www.downloadHandler.text);
 
             int firstIndex = www.downloadHandler.text.IndexOf("\"id\"", StringComparison.Ordinal) - 1;
             int secondIndex = www.downloadHandler.text.LastIndexOf('}');
@@ -56,7 +65,7 @@ public class NetworkManager : MonoBehaviour
             JObject stuff = JsonConvert.DeserializeObject<JObject>(jsonString);
             JArray secondStuff = JsonConvert.DeserializeObject<JArray>(stuff["choices"].ToString());
             JObject firstTextObject = JsonConvert.DeserializeObject<JObject>(secondStuff[0].ToString());
-           // Debug.Log(firstTextObject["text"]);
+            // Debug.Log(firstTextObject["text"]);
             onCharacterResponseRecieved.Invoke((firstTextObject["text"].ToString().Trim()));
         }
     }

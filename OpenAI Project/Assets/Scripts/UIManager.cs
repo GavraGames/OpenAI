@@ -10,7 +10,7 @@ using UnityEngine.InputSystem;
 
 public class UIManager : MonoBehaviour
 {
-    public const string HINT_TEXT = "Press {0} to interact";
+    public const string HINT_TEXT = "Press {0} to interact with {1}";
     
     [HideInInspector] public UnityEvent<string> onSendTextAfterValidate;
     
@@ -63,7 +63,7 @@ public class UIManager : MonoBehaviour
 
     private void Start()
     {
-        interactHintText.text = string.Format(HINT_TEXT, gameManager.interactButton.ToString());
+     //   interactHintText.text = string.Format(HINT_TEXT, gameManager.interactButton.ToString(), "Moshe");
         
         //events
         for (int i = 0; i < gameManager.npcControllers.Length; i++)
@@ -82,6 +82,8 @@ public class UIManager : MonoBehaviour
     {
         interactHintPanel.SetActive(true);
         incomingDialoguePanel.SetActive(true);
+        
+        interactHintText.text = string.Format(HINT_TEXT, gameManager.interactButton.ToString(), npcController.characterName);
     }
 
     public void HideHintPanel(NPCController npcController)
